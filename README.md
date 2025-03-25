@@ -3,7 +3,7 @@
 🔬 **Problem Solver** at the intersection of AI, Web Dev, and IoT  
 🚀 **Aspiring IT Professional** blending manual testing expertise with development passion
 🏆 **Certified Manual Tester** (ISTQB) | 🌱 **Growing in DevOps**  
-📍 [Thane, Maharashtra] | ✉️ [prafulgawane3@gmail.com]
+📍 Thane, Maharashtra | ✉️ prafulgawane3@gmail.com
 
 
 ---
