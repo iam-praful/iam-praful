@@ -14,7 +14,7 @@
 `Python` `TensorFlow` `Keras` `OpenCV` `Medical Image Processing`
 
 ### 🌐 **Web Development**  
-- `Python` `JavaScript` `SQL``PHP`
+- `Python` `JavaScript` `SQL` `PHP`
 - Web Dev: `HTML` `CSS` `Node.js`
 - Version Control: `Git/GitHub`
 
